@@ -77,11 +77,20 @@ Perfect for:
 
 ## 🎬 Screenshots
 
-### Desktop View
-![ApexTicker Desktop](https://via.placeholder.com/800x400?text=ApexTicker+Desktop)
+### Desktop View - Full Features
+![ApexTicker Desktop](screenshot-2.png)
 
-### Mobile View  
-![ApexTicker Mobile](https://via.placeholder.com/400x600?text=ApexTicker+Mobile)
+### logo apexticker - On the Go
+![ApexTicker Mobile](screenshot-1.png)
+
+### Why Choose ApexTicker? - Eye Friendly
+![ApexTicker Dark Theme](screenshot-4.png)
+
+### Live Top Gainers Display
+![ApexTicker Gainers](screenshot-3.png)
+
+---
+
 
 ---
 
